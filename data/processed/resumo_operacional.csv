@@ -1,0 +1,13 @@
+tipo_fulfillment,tipo_servico,status_pedido,pedidos,receita_liquida,unidades
+Amazon,Expresso,Enviado,76790,50296162.0,76952
+Amazon,Expresso,Cancelado,11427,0.0,5651
+Amazon,Expresso,Pendente,413,268784.0,411
+Amazon,Padrao,Enviado,1025,34024.0,1068
+Amazon,Padrao,Cancelado,48,0.0,5
+Amazon,Padrao,Outro,8,0.0,8
+Amazon,Padrao,Pendente,2,0.0,2
+Seller,Padrao,Entregue,28756,18642383.0,28872
+Seller,Padrao,Cancelado,6859,0.0,0
+Seller,Padrao,Devolucao,2099,1378118.0,2121
+Seller,Padrao,Enviado,1025,698651.0,1029
+Seller,Padrao,Pendente,524,353625.0,527

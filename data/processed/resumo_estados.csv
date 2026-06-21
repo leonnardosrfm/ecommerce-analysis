@@ -1,0 +1,49 @@
+regiao_operacional,estado_envio,pedidos,receita_liquida,unidades,pedidos_cancelados
+Oeste,Maharashtra,22272,12229107.0,20338,2968
+Sul,Karnataka,17324,9649630.0,15901,2244
+Sul,Telangana,11330,6288700.0,10253,1635
+Norte,Uttar Pradesh,10646,6193581.0,9507,1604
+Sul,Tamil Nadu,11488,5958452.0,10416,1593
+Norte,Delhi,6963,4004113.0,6321,911
+Sul,Kerala,6577,3371250.0,5805,1174
+Leste,West Bengal,5962,3206053.0,5316,885
+Sul,Andhra Pradesh,5427,2880229.0,4816,892
+Norte,Haryana,4410,2653033.0,4062,561
+Oeste,Gujarat,4482,2484007.0,4142,591
+Oeste,Rajasthan,2713,1616622.0,2427,375
+Centro,Madhya Pradesh,2532,1454852.0,2263,380
+Leste,Bihar,2113,1279361.0,1874,339
+Leste,Odisha,2136,1240645.0,1908,346
+Norte,Punjab,1919,1115716.0,1743,248
+Nordeste,Assam,1664,930467.0,1484,248
+Norte,Uttarakhand,1552,885905.0,1384,234
+Leste,Jharkhand,1457,833204.0,1285,231
+Oeste,Goa,1137,593993.0,1055,130
+Centro,Chhattisgarh,909,516215.0,822,127
+Norte,Himachal Pradesh,789,446735.0,676,146
+Norte,Jammu & Kashmir,702,411348.0,618,118
+Nordeste,Manipur,314,200313.0,292,36
+Nao mapeada,Chandigarh,334,198351.0,305,36
+Sul,Puducherry,348,173566.0,306,53
+Nao mapeada,Andaman & Nicobar,256,138101.0,225,45
+Nordeste,Nagaland,185,134290.0,181,22
+Nordeste,Sikkim,205,128712.0,182,31
+Nordeste,Meghalaya,207,104187.0,184,34
+Nordeste,Arunachal Pradesh,146,88002.0,134,20
+Nordeste,Tripura,151,84542.0,134,22
+Nao mapeada,New Delhi,81,43619.0,72,13
+Nao mapeada,Dadra And Nagar,70,37533.0,58,12
+Nordeste,Mizoram,76,35640.0,69,14
+Nao mapeada,Ladakh,43,34386.0,40,6
+Nao mapeada,,35,17592.0,30,7
+Nao mapeada,Lakshadweep,4,2441.0,3,1
+Nao mapeada,Orissa,3,1737.0,3,0
+Nao mapeada,Rj,2,1040.0,2,0
+Nao mapeada,Rajsthan,2,964.0,2,0
+Nao mapeada,Nl,2,961.0,2,0
+Nao mapeada,Punjab/Mohali/Zirakpur,1,568.0,1,0
+Nao mapeada,Rajshthan,3,563.0,2,1
+Nao mapeada,Pondicherry,1,529.0,1,0
+Nao mapeada,Ar,1,493.0,1,0
+Nao mapeada,Pb,1,399.0,1,0
+Nao mapeada,Apo,1,0.0,0,1
